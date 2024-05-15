@@ -1,0 +1,3 @@
+matplotlib @ file:///C:/b/abs_b2d7uv90hg/croot/matplotlib-suite_1677674332463/work
+numpy==1.23.5
+numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
